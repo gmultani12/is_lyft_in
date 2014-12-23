@@ -6,28 +6,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>North Carolina | Is Lyft In</title>
-    <meta name="description" content="Find out where you can get a Lyft ride in North Carolina.">
-    <meta property="og:title" content="North Carolina | Is Lyft In" />
+    <title>Columbus | Is Lyft In</title>
+    <meta name="description" content="Find out where you can get a Lyft ride in Columbus, Ohio.">
+    <meta property="og:title" content="Columbus | Is Lyft In" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://islyftin.com/northcarolina " />
-    <meta property="og:image" content="img/logo.png" />
-    <meta property="og:description" content="Find out where you can get a Lyft ride in North Carolina." />
+    <meta property="og:url" content="http://islyftin.com/ohio/columbus" />
+    <meta property="og:image" content="../img/logo.png" />
+    <meta property="og:description" content="Find out where you can get a Lyft ride in Columbus, Ohio" />
 
-    <!-- Logo in Tab -->
-    <link rel="shortcut icon" href="img/logo.png">
+    <!-- Logo in tab -->
+    <link rel="shortcut icon" href="../img/logo.png">
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/islyftin.css" rel="stylesheet">
+    <link href="../css/islyftin.css" rel="stylesheet">
 
     <!-- Bootstrap Button Pack -->
-    <link href="css/buttons.css" rel="stylesheet">
+    <link href="../css/buttons.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="../font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
@@ -44,7 +44,7 @@
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-              <a class="navbar-brand page-scroll" href="index.html"><img src="img/logo.png" style="width:101px;height:34px"></a>
+              <a class="navbar-brand page-scroll" href="../index.html"><img src="../img/logo.png" style="width:101px;height:34px"></a>
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                   <i class="fa fa-bars"></i>
                 </button>
@@ -56,9 +56,6 @@
                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
                     <li class="hidden">
                         <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#cities">Cities</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#download">Download</a>
@@ -77,8 +74,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Is Lyft In</h1>
-                        <p class="intro-text">Lyft is Available in North Carolina!<br>Click below to see the cities</p>
-                        <a href="#cities" class="btn btn-circle page-scroll">
+                        <p class="intro-text">Lyft is Available in Columbus, OH!<br>Click below to see the map</p>
+                        <a href="#honolulu" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
@@ -88,19 +85,13 @@
     </header>
 
     <!-- State Section -->
-    <section id="cities" class="container content-section text-center">
+    <section id="honolulu" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Cities</h2>
+                <h2>Columbus</h2>
             </div>
         </div>
-    </section> 
-
-    <!-- City Button -->
-        <div class="text-center">
-          <a href="northcarolina/charlotte"><button type="button" class="btn btn-default outline">Charlotte</button></a>
-          <a href="northcarolina/raleigh"><button type="button" class="btn btn-default outline">Raleigh</button></a>
-        </div>
+    </section>
 
     <!-- Download Section -->
     <section id="download" class="content-section text-center">
@@ -124,18 +115,18 @@
     </footer>
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="../js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="..js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="js/jquery.easing.min.js"></script>
+    <script src="../js/jquery.easing.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="js/islyftin.js"></script>
+    <script src="../js/islyftin.js"></script>
     
 </body>
 </html>
 
-		
+        
