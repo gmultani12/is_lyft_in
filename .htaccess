@@ -3,3 +3,6 @@ RewriteBase /
 RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^(.*)$ $1.html [NC,L]
+
+RewriteCond %{HTTP_HOST} ^173\.236\.174\.103
+RewriteRule (.*) http://www.islyftin.com/$1  [R=301,L]
